@@ -20,6 +20,7 @@ It recognizes simple hand signs like Fist, Open Hand, Pointing, and Peace sign b
 - [Python](https://www.python.org/)
 - [OpenCV](https://opencv.org/) – for video capture and image processing
 - [MediaPipe](https://developers.google.com/mediapipe) – for hand tracking and landmarks
+  
 
 
 🧠 How It Works
