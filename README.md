@@ -1,6 +1,7 @@
 # ✋ Hand Sign Detection using OpenCV and MediaPipe
 
 This project uses **OpenCV and **MediaPipe** to perform real-time hand gesture detection through your webcam. 
+
 It recognizes simple hand signs like Fist, Open Hand, Pointing, and Peace sign based on finger position tracking.
 
 
@@ -13,7 +14,7 @@ It recognizes simple hand signs like Fist, Open Hand, Pointing, and Peace sign b
   - ☝️ Pointing  
   - ✌️ Peace
 - Simple gesture classification based on landmark positions
-- 
+
 
 ## 🛠️ Tech Stack
 
