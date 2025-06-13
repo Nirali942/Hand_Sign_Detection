@@ -24,7 +24,7 @@ It recognizes simple hand signs like Fist, Open Hand, Pointing, and Peace sign b
   
 
 
-🧠 How It Works
+##🧠 How It Works
 
 
 MediaPipe detects 21 hand landmarks per frame.
@@ -34,7 +34,7 @@ The get_finger_status() function analyzes the relative positions of these landma
 Based on finger status (up/down), specific gestures are classified and displayed.
 
 
-📈 Future Improvements
+##📈 Future Improvements
 
 
 Add support for more hand signs
